@@ -1,2 +1,4 @@
-# sound-essence
- Uma landing page para a venda de um fone de ouvido usando apenas HTML e CSS
+# SoundEssence
+ Landing Page para venda de um fone de ouvido com o objetivo de praticar as linguagens HTML e CSS
+
+ todas as imagens usadas são do site da Pexels - https://www.pexels.com/pt-br/
